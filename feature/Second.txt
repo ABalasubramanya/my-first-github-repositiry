@@ -2,3 +2,5 @@ This is the second file used to check the pull requests.
 
 
 This is the edit in the second.txt file
+
+This is the changes done manually using VSCODE.
